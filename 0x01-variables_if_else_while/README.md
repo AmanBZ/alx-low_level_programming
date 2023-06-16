@@ -1,15 +1,5 @@
 0x01. C - Variables,if,else,while
-Resources
-C - Books and PDF's to check out and use as a reference.
-Keywords and identifiers.
-Integral types.
-Arithmetic Operators in C.
-If statements in C.
-C - if...else statement.
-Relational Operators in C.
-C - Logical Operators.
-while loop in C.
-While Loop Youtube Video.
+
 Tasks
 0. Positive anything is better than negative nothing
 1. The last digit
