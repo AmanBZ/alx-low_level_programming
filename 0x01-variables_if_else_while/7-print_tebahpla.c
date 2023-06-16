@@ -1,23 +1,23 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  * main - Entry point
  *
- * Description: print all aplhabet letters
+ * Description: print a-z in reverse
  *
  * Return: Always 0 (Success)
 */
 
 int main(void)
 {
-        char g = 'z';
-	
-	while (g >= 'a')
-        {
-                putchar(g);
-                --g;
-        }
-        putchar('\n');
+	char ch = 'z';
 
-        return (0);
+	while (ch >= 'a')
+	{
+		putchar(ch);
+		--ch;
+	}
+	putchar('\n');
+
+	return (0);
 }
