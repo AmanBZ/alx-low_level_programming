@@ -15,7 +15,7 @@ int main(void)
         while (g <= 'a')
         {
                 putchar(g);
-                g = g - 1;
+                --g;
         }
         putchar('\n');
 
