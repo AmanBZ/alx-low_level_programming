@@ -10,9 +10,10 @@
 */
 
 int main(void)
-{ 
+{
 
 	char a[10] = "_putchar";
+
 	printf("%s\n", a);
 
 	return (0);
